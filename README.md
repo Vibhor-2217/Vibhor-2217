@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vibhor 👋</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <p align="center">
   <em>Machine Learning Enthusiast | Web Developer | Problem Solver</em>
@@ -37,11 +37,11 @@ Here are some projects I’ve worked on recently:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Vibhor-2217=Vibhor-2217&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vibhor-2217&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Vibhor-2217=Vibhor-2217&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhor-2217&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
