@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Vibhor 👋</h1>
 
 <p align="center">
   <em>Machine Learning Enthusiast | Web Developer | Problem Solver</em>
